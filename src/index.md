@@ -7,7 +7,7 @@ og-url: https://julayleathermanbrooks.github.io
 location: Biot, France
 email: julay@pdx.edu
 clickable-email: false
-picture: ../website/img/far.jpeg
+picture: website/img/far.jpeg
 picture-round: false
 side-by-side: true
 disable-dark-mode: false
