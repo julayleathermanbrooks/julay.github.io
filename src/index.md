@@ -44,11 +44,15 @@ publications to put them in the nice following shape.
 ## Conference papers
 
 ``` json {.paper}
-"title": "Towards automatic academic pages 2",
-"authors": "Templato Urnehm, U. N. Owen, Wan Morotter",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2024",
-"url": "https://basicpage.github.io"
+"title": "Triosecuris: Formally Verified Protection Against Speculative Control-Flow Hijacking",
+"authors": "Jonathan Baumann, Yonghyun Kim, Yan Farba, Cătălin Hrițcu, Julay Leatherman-Brooks",
+"venue": "Computer Security Foundations (CSF)",
+"year": "2026",
+"url": "https://arxiv.org/abs/2601.22978",
+"files": [
+  { "text": "Paper", "type": "pdf", "src": "papers/2601.22978v3.pdf" },
+  { "text": "Rocq Development", "type": "code", "src": "https://github.com/secure-compilation/Triosecuris" }
+],
 ```
 
 ``` json {.paper}
