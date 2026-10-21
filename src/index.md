@@ -7,12 +7,12 @@ og-url: https://julayleathermanbrooks.github.io
 location: Biot, France
 email: julay@pdx.edu
 clickable-email: false
-picture: img/square.jpeg
+picture: img/indoors2.jpeg
 picture-round: true
 side-by-side: true
 disable-dark-mode: true
 pronouns: they/she
-og-picture: https://julayleathermanbrooks.github.io/website/img/square.jpeg
+og-picture: https://julayleathermanbrooks.github.io/website/img/indoors2.jpeg
 orcid: 0009-0005-5957-6981
 # dblp: https://dblp.org/
 # scholar: https://scholar.google.com/
