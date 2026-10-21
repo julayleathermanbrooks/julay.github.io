@@ -293,7 +293,7 @@ div.note > div.title p::before {
 /* CLASSES */
 
 .round-image {
-    border-radius: 50%;
+    border-radius: 80%;
     object-fit: cover;
 }
 
