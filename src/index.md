@@ -1,8 +1,10 @@
 ---
 title: Julay Leatherman-Brooks
 author: Julay Leatherman-Brooks
-shortbio: Master's student at [PSU](https://pdx.edu), research intern at [EURECOM](https://s3.eurecom.fr)
-description-meta: Master's student at [PSU](https://pdx.edu), research intern at [EURECOM](https://s3.eurecom.fr)
+shortbio: Master's student at [PSU](https://pdx.edu), 
+research intern at [EURECOM](https://s3.eurecom.fr)
+description-meta: Master's student at PSU, 
+research intern at EURECOM
 og-url: https://julayleathermanbrooks.github.io
 location: Biot, France
 email: julay@pdx.edu
