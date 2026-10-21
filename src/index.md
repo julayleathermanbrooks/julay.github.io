@@ -12,7 +12,7 @@ picture-round: true
 side-by-side: true
 disable-dark-mode: false
 pronouns: they/she
-og-picture: https://julayleathermanbrooks.github.io/img/far.jpeg
+og-picture: https://julayleathermanbrooks.github.io/src/far.jpeg
 orcid: 0009-0005-5957-6981
 # dblp: https://dblp.org/
 # scholar: https://scholar.google.com/
