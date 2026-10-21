@@ -7,11 +7,11 @@ og-url: https://julay.github.io
 location: Biot, France
 email: julay.brooks@eurecom.fr
 clickable-email: true
-picture: img/close.jpeg
+picture: close.jpeg
 picture-round: true
 side-by-side: true
-disable-dark-mode: false
-pronouns: they or she
+disable-dark-mode: true
+pronouns: they/she
 # og-picture: https://basicpage.github.io/img/profile.png
 orcid: 0009-0005-5957-6981
 # dblp: https://dblp.org/
@@ -35,21 +35,6 @@ of [Lesly-Ann Daniel](https://leslyann-daniel.fr/).
 
 Previously, I was a research intern at MPI-SP, under the supervision 
 of [Cătălin Hrițcu](https://catalin-hritcu.github.io/).
-
-You have the power of Markdown, powered by Pandoc to let you do what you want.
-- Unordered lists.
-- *Italic*.
-- **Bold**.
-- Key display: <kbd>Ctrl</kbd> + <kbd>S</kbd>.
-- Sublists.
-  1. Ordered if one wants.
-  2. And so on…
-
-> [!TIP]
-> The way this page is structured is only a suggestion, and you are basically
-> free to customise everything however you want. For the more advanced
-> customisation you might need to now very basic CSS and/or HTML, but that's it
-> because we do not rely on any heavy machinery.
 
 # Publications
 
