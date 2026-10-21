@@ -3,7 +3,7 @@ title: Basicpage template
 author: Julay Leatherman-Brooks
 shortbio: Master's student in Computer Science at Portland State University
 description-meta: Master's student in Computer Science at Portland State University 
-og-url: https://julay.github.io
+og-url: https://julayleathermanbrooks.github.io
 location: Biot, France
 email: julay.brooks@eurecom.fr
 clickable-email: true
