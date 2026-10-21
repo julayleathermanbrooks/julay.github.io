@@ -70,7 +70,7 @@ publications to put them in the nice following shape.
 "files": [
   { "text": "Paper", "type": "pdf", "src": "papers/2601.22978v3.pdf" },
   { "text": "Rocq Development", "type": code, src": "https://github.com/secure-compilation/Triosecuris" }
-
+]
 ```
 
 ## Internships 
