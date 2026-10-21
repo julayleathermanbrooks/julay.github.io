@@ -24,16 +24,15 @@ github: julayleathermanbrooks
 # bluesky: https://bsky.app/
 linkedin: https://www.linkedin.com/julayleathermanbrooks
 footer: >-
-  Based on the
+  Based on the easy-to-use
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
-  made to be easy to use! 🎓
+  made by Yannick Forster and Théo Winterhalter! 🎓
 ---
 
 I'm a master's student in Computer Science at Portland State University. I'm also a research intern at [EURECOM](https://www.s3.eurecom.fr/), under the supervision 
-of [Lesly-Ann Daniel](https://leslyann-daniel.fr/). 
+of [Lesly-Ann Daniel](https://leslyann-daniel.fr/), working on compiler support for hardware secrecy tracking.
 
-Previously, I was a research intern at [MPI-SP](https://www.mpi-sp.org/), under the supervision 
-of [Cătălin Hrițcu](https://catalin-hritcu.github.io/).
+Previously, I was a research intern at [MPI-SP](https://www.mpi-sp.org/), in the Formally Verified Security group, under the supervision of [Cătălin Hrițcu](https://catalin-hritcu.github.io/). I worked on formal verification for Spectre mitigations. From this internship came the publication below, as well as my master's thesis.
 
 # Publications
 
@@ -65,11 +64,13 @@ of [Cătălin Hrițcu](https://catalin-hritcu.github.io/).
 "title": "Compiler Correctness and Spectre Mitigations",
 "authors": "Julay Leatherman-Brooks",
 "files": [
-  { "text": "Thesis", "type": "pdf", "src": "papers/thesis_draft.pdf" }
+  { "text": "Thesis", "type": "pdf", "src": "papers/thesis_draft.pdf" },
+  { "text": "Slides", "type": "pdf", "src": "files/thesis_slides.pdf" }
 ]
 
 ```
 # Teaching
 
-Write whatever you want here.
+- 04/2025 - 06/2025: TA, Malware Reverse Engineering 
+- 09/2024 - 03/2025: TA, Intro to Programming and Problem-Solving
 
