@@ -1,5 +1,5 @@
 ---
-title: Basicpage template
+title: Julay Leatherman-Brooks
 author: Julay Leatherman-Brooks
 shortbio: Master's student in Computer Science at Portland State University
 description-meta: Master's student in Computer Science at Portland State University 
