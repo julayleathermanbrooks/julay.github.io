@@ -7,12 +7,12 @@ og-url: https://julay.github.io
 location: Biot, France
 email: julay.brooks@eurecom.fr
 clickable-email: true
-picture: close.jpeg
+picture: img/far.png
 picture-round: true
 side-by-side: true
 disable-dark-mode: true
 pronouns: they/she
-# og-picture: https://basicpage.github.io/img/profile.png
+og-picture: https://julayleathermanbrooks.github.io/img/far.png
 orcid: 0009-0005-5957-6981
 # dblp: https://dblp.org/
 # scholar: https://scholar.google.com/
