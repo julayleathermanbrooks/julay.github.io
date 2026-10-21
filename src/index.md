@@ -52,20 +52,6 @@ publications to put them in the nice following shape.
 "files": [
   { "text": "Paper", "type": "pdf", "src": "papers/2601.22978v3.pdf" },
   { "text": "Rocq Development", "type": "code", "src": "https://github.com/secure-compilation/Triosecuris" }
-],
-```
-
-``` json {.paper}
-"title": "Towards automatic academic pages",
-"authors": "Templato Urnehm, U. N. Owen",
-"awards": "Automatic Award",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2023",
-"url": "https://basicpage.github.io",
-"files": [
-  { "text": "Paper", "type": "pdf", "src": "foo.pdf" },
-  { "text": "Bibtex", "type": "bib", "src": "foo.bib" },
-  { "text": "Formalisation", "type": "code", "src": "foo.v" }
 ]
 ```
 
