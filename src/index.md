@@ -61,6 +61,7 @@ Previously, I was a research intern at [MPI-SP](https://www.mpi-sp.org/), in the
 ## Master's Thesis
 
 This is a draft: it remains to meet university formatting requirements.
+
 Committee: Andrew Tolmach, Cătălin Hrițcu, Yao Li, Mark Jones
 
 ``` json {.paper}
