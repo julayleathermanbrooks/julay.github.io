@@ -58,15 +58,19 @@ Previously, I was a research intern at [MPI-SP](https://www.mpi-sp.org/), in the
 - 08/2015 - 05/2016: Linguistics, no degree awarded, University of California, Berkeley
 - 09/1995 - 05/2002: Music, BA, Sarah Lawrence College
 
-## Master's Thesis
+## Master's Thesis (Upcoming)
 
 This is a draft: it remains to meet university formatting requirements.
+
+Defended June 2026.
 
 Committee: Andrew Tolmach, Cătălin Hrițcu, Yao Li, Mark Jones
 
 ``` json {.paper}
 "title": "Compiler Correctness and Spectre Mitigations",
 "authors": "Julay Leatherman-Brooks, advised by Andrew Tolmach",
+"venue": "Portland State University",
+"year": "2026"
 "files": [
   { "text": "Thesis", "type": "pdf", "src": "papers/thesis_draft.pdf" },
   { "text": "Slides", "type": "pdf", "src": "files/thesis_slides.pdf" }
