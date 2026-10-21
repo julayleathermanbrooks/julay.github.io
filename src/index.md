@@ -24,13 +24,13 @@ github: julayleathermanbrooks
 # bluesky: https://bsky.app/
 linkedin: https://www.linkedin.com/julayleathermanbrooks
 footer: >-
-  Based on the easy-to-use
+  Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
   made by Yannick Forster and Théo Winterhalter! 🎓
 ---
 
 I'm a master's student in Computer Science at Portland State University. I'm also currently a research intern at EURECOM, under the supervision 
-of [Lesly-Ann Daniel](https://leslyann-daniel.fr/), working on compiler support for hardware secrecy tracking.
+of [Lesly-Ann Daniel](https://leslyann-daniel.fr/).
 
 Previously, I was a research intern at [MPI-SP](https://www.mpi-sp.org/), in the Formally Verified Security group, under the supervision of [Cătălin Hrițcu](https://catalin-hritcu.github.io/). I worked on formal verification for Spectre mitigations. From this internship came the publication below, as well as my master's thesis.
 
