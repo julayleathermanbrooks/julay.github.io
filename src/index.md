@@ -1,8 +1,8 @@
 ---
 title: Julay Leatherman-Brooks
 author: Julay Leatherman-Brooks
-shortbio: Master's student at PSU, research intern at EURECOM
-description-meta: Master's student at PSU, research intern at EURECOM
+shortbio: Master's student at [PSU](https://plv.cs.pdx.edu/), research intern at [EURECOM](https://www.s3.eurecom.fr/)
+description-meta: Master's student at [PSU](https://plv.cs.pdx.edu/), research intern at [EURECOM](https://www.s3.eurecom.fr/)
 og-url: https://julayleathermanbrooks.github.io
 location: Biot, France
 email: julay@pdx.edu
@@ -64,7 +64,7 @@ This is a near-final draft: it still remains to meet university formatting requi
 
 ``` json {.paper}
 "title": "Compiler Correctness and Spectre Mitigations",
-"authors": "Julay Leatherman-Brooks, advised by Andrew Tolmach",
+"authors": "Julay Leatherman-Brooks, advised by [Andrew Tolmach](https://web.cecs.pdx.edu/~apt/)",
 "venue": "Portland State University",
 "year": "2026",
 "files": [
