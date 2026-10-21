@@ -8,7 +8,7 @@ location: Biot, France
 email: julay@pdx.edu
 clickable-email: false
 picture: img/far.jpeg
-picture-round: false
+picture-round: true
 side-by-side: true
 disable-dark-mode: false
 pronouns: they/she
