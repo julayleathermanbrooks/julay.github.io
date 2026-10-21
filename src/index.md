@@ -1,28 +1,28 @@
 ---
 title: Basicpage template
-author: Your Name
-shortbio: Short bio
+author: Julay Leatherman-Brooks
+shortbio: Master's student in Computer Science at Portland State University, research intern at EURECOM
 description-meta: Short bio for meta-data
-og-url: https://basicpage.github.io
-location: Location, office
-email: noreply@noemail.com
-clickable-email: false
-picture: img/profile.png
-picture-round: false
+# og-url: https://basicpage.github.io
+location: Biot, Alpes-Maritimes, France
+email: julay.brooks@eurecom.fr
+clickable-email: true
+picture: img/close.jpeg
+picture-round: true
 side-by-side: true
 disable-dark-mode: false
-pronouns: Pronouns
-og-picture: https://basicpage.github.io/img/profile.png
-orcid: 0000-0000-0000-0000
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
-hal: https://hal.science/
-mastodon: https://lipn.info
-github: basicpage
-gitlab: gitlab
-bitbucket: bitbucket.com
-bluesky: https://bsky.app/
-linkedin: https://www.linkedin.com
+pronouns: they or she
+# og-picture: https://basicpage.github.io/img/profile.png
+orcid: 0009-0005-5957-6981
+# dblp: https://dblp.org/
+# scholar: https://scholar.google.com/
+# hal: https://hal.science/
+# mastodon: https://lipn.info
+github: julayleathermanbrooks
+# gitlab: gitlab
+# bitbucket: bitbucket.com
+# bluesky: https://bsky.app/
+linkedin: https://www.linkedin.com/julayleathermanbrooks
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
@@ -62,126 +62,20 @@ publications to put them in the nice following shape.
 ## Conference papers
 
 ``` json {.paper}
-"title": "Towards automatic academic pages 2",
-"authors": "Templato Urnehm, U. N. Owen, Wan Morotter",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2024",
-"url": "https://basicpage.github.io"
-```
-
-``` json {.paper}
-"title": "Towards automatic academic pages",
-"authors": "Templato Urnehm, U. N. Owen",
-"awards": "Automatic Award",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2023",
-"url": "https://basicpage.github.io",
+"title": "Triosecuris: Formally Verified Protection Against Speculative Control-Flow Hijacking",
+"authors": "Jonathan Baumann, Yonghyun Kim, Yan Farba, Cătălin Hriţcu, Julay Leatherman-Brooks",
+"venue": "Computer Security Foundations (CSF)",
+"year": "2026",
+"url": "https://arxiv.org/abs/2601.22978",
 "files": [
-  { "text": "Paper", "type": "pdf", "src": "foo.pdf" },
-  { "text": "Bibtex", "type": "bib", "src": "foo.bib" },
-  { "text": "Formalisation", "type": "code", "src": "foo.v" }
-]
+  { "text": "Paper", "type": "pdf", "src": "papers/2601.22978v3.pdf" },
+  { "text": "Rocq Development", "type": code, src": "https://github.com/secure-compilation/Triosecuris" }
+
 ```
 
-## Journal papers
+## Internships 
 
-``` yaml {.paper}
-title: Yet another yaml parser 3
-authors: Templato Urnehm
-awards:
-  - Yet another "Yet another" award
-  - Never-ending Work Award
-venue: Proceedings of Nihilism
-year: 2029
-url: https://basicpage.github.io
-files:
-  - text: Paper
-    type: pdf
-    scr: foo.pdf
-  - text: Bibtex
-    type: bib
-    src: foo.bib
-```
 
-``` yaml {.papers}
-papers:
-  - title: Yet another yaml parser 2
-    authors: Templato Urnehm
-    venue: Proceedings of Nihilism
-    year: 2027
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-  - title: Yet another yaml parser
-    authors: Templato Urnehm
-    awards: Yet another "Yet another" award
-    venue: Proceedings of Nihilism
-    year: 2025
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-      - text: Some link
-        type: link
-        src: fake.link.xyz
-      - text: Repo
-        type: git
-        src: github.com
-```
-
-``` json {.paper}
-"title": "How to tame your wagon",
-"authors": "Templato Urnehm",
-"venue": "Journal of Automatic Rejection (JAR)",
-"year": "2022"
-```
-
-## Drafts
-
-``` json {.paper}
-"title": "TBD",
-"authors": "TBD",
-"awards": [
-  "Best Draft Award",
-  "Test-of-time Award for works which just never leave the draft stage"
-],
-"files": [
-  { "text": "🐱 video", "type": "video", "src": "foo.mov" },
-  { "text": "Poem", "type": "txt", "src": "foo.txt" },
-  { "text": "My picture", "type": "img", "src": "img/profile.png" },
-  { "text": "💣", "type": "zip", "src": "foo.zip" },
-  { "text": "Slides", "type": "slides", "src": "foo.key" },
-  { "text": "Some random file", "src": "foo.rand" }
-]
-```
-
-## Talks
-
-``` json {.papers}
-{
-  "title": "Talk 1",
-  "authors": "Templato Urnehm",
-  "venue": "My room"
-},
-{
-  "title": "Secret talk",
-  "authors": "Templato Urnehm",
-  "year": "1990"
-},
-{
-  "title": "Talk 3",
-  "authors": "Templato Urnehm",
-  "venue": "Don't remember…",
-  "year": "???"
-}
-```
 
 # Education
 
