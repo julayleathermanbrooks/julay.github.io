@@ -7,12 +7,12 @@ og-url: https://julayleathermanbrooks.github.io
 location: Biot, France
 email: julay.brooks@eurecom.fr
 clickable-email: true
-picture: img/far.png
+picture: julayleathermanbrooks.github.io/img/far.jpeg
 picture-round: true
 side-by-side: true
-disable-dark-mode: true
+disable-dark-mode: false
 pronouns: they/she
-og-picture: https://julayleathermanbrooks.github.io/img/far.png
+og-picture: https://julayleathermanbrooks.github.io/img/far.jpeg
 orcid: 0009-0005-5957-6981
 # dblp: https://dblp.org/
 # scholar: https://scholar.google.com/
@@ -29,11 +29,10 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-I'm a master's student at Portland State University, advised 
-by [Andrew Tolmach](https://web.cecs.pdx.edu/~apt/). I'm also currently a research intern at EURECOM, under the supervision 
+I'm a master's student in Computer Science at Portland State University. I'm also a research intern at [EURECOM](), under the supervision 
 of [Lesly-Ann Daniel](https://leslyann-daniel.fr/). 
 
-Previously, I was a research intern at MPI-SP, under the supervision 
+Previously, I was a research intern at [MPI-SP](https://www.mpi-sp.org/), under the supervision 
 of [Cătălin Hrițcu](https://catalin-hritcu.github.io/).
 
 # Publications
@@ -157,7 +156,7 @@ papers:
 
 # Education
 
-Write whatever you want here.
+- 
 
 # Teaching
 
