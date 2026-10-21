@@ -61,10 +61,11 @@ Previously, I was a research intern at [MPI-SP](https://www.mpi-sp.org/), in the
 ## Master's Thesis
 
 This is a draft: it remains to meet university formatting requirements.
+Committee: Andrew Tolmach, Cătălin Hrițcu, Yao Li, Mark Jones
 
 ``` json {.paper}
 "title": "Compiler Correctness and Spectre Mitigations",
-"authors": "Julay Leatherman-Brooks",
+"authors": "Julay Leatherman-Brooks, advised by Andrew Tolmach",
 "files": [
   { "text": "Thesis", "type": "pdf", "src": "papers/thesis_draft.pdf" },
   { "text": "Slides", "type": "pdf", "src": "files/thesis_slides.pdf" }
