@@ -5,9 +5,9 @@ shortbio: Master's student in Computer Science at Portland State University
 description-meta: Master's student in Computer Science at Portland State University 
 og-url: https://julayleathermanbrooks.github.io
 location: Biot, France
-email: julay.brooks@eurecom.fr
-clickable-email: true
-picture: julayleathermanbrooks.github.io/img/far.jpeg
+email: julay@pdx.edu
+clickable-email: false
+picture: ../img/far.jpeg
 picture-round: true
 side-by-side: true
 disable-dark-mode: false
@@ -29,7 +29,7 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-I'm a master's student in Computer Science at Portland State University. I'm also a research intern at [EURECOM](), under the supervision 
+I'm a master's student in Computer Science at Portland State University. I'm also a research intern at [EURECOM](https://www.s3.eurecom.fr/), under the supervision 
 of [Lesly-Ann Daniel](https://leslyann-daniel.fr/). 
 
 Previously, I was a research intern at [MPI-SP](https://www.mpi-sp.org/), under the supervision 
