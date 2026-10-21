@@ -1,10 +1,10 @@
 ---
 title: Basicpage template
 author: Julay Leatherman-Brooks
-shortbio: Master's student in Computer Science at Portland State University, research intern at EURECOM
-description-meta: Short bio for meta-data
-# og-url: https://basicpage.github.io
-location: Biot, Alpes-Maritimes, France
+shortbio: Master's student in Computer Science at Portland State University
+description-meta: Master's student in Computer Science at Portland State University 
+og-url: https://julay.github.io
+location: Biot, France
 email: julay.brooks@eurecom.fr
 clickable-email: true
 picture: img/close.jpeg
@@ -29,15 +29,12 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-> [!NOTE]
-> This website is an example of what one can get with the `basicpage` template
-> designed for easy-to-create personal academic page.
-> You are only required to know a little bit of Markdown to get started!
-> Just follow the README of the
-> [Github repository](https://github.com/basicpage/basicpage.github.io).
+I'm a master's student at Portland State University, advised 
+by [Andrew Tolmach](https://web.cecs.pdx.edu/~apt/). I'm also currently a research intern at EURECOM, under the supervision 
+of [Lesly-Ann Daniel](https://leslyann-daniel.fr/). 
 
-Here you would write a longer presentation of yourself and your research
-interest, or anything you want really.
+Previously, I was a research intern at MPI-SP, under the supervision 
+of [Cătălin Hrițcu](https://catalin-hritcu.github.io/).
 
 You have the power of Markdown, powered by Pandoc to let you do what you want.
 - Unordered lists.
@@ -59,24 +56,129 @@ You have the power of Markdown, powered by Pandoc to let you do what you want.
 This template provide JSON or Yaml parsers to handle data representing
 publications to put them in the nice following shape.
 
-<!-- ## Conference papers -->
-<!---->
-<!-- ``` json {.paper} -->
-<!-- "title": "Triosecuris: Formally Verified Protection Against Speculative Control-Flow Hijacking", -->
-<!-- "authors": "Jonathan Baumann, Yonghyun Kim, Yan Farba, Cătălin Hriţcu, Julay Leatherman-Brooks", -->
-<!-- "venue": "Computer Security Foundations (CSF)", -->
-<!-- "year": "2026", -->
-<!-- "url": "https://arxiv.org/abs/2601.22978", -->
-<!-- "files": [ -->
-<!--   { "text": "Paper", "type": "pdf", "src": "papers/2601.22978v3.pdf" }, -->
-<!--   { "text": "Rocq Development", "type": code, src": "https://github.com/secure-compilation/Triosecuris" } -->
-<!-- ] -->
-<!-- ``` -->
-<!---->
+## Conference papers
 
-## Internships
+``` json {.paper}
+"title": "Towards automatic academic pages 2",
+"authors": "Templato Urnehm, U. N. Owen, Wan Morotter",
+"venue": "Principles of Awesomeness (PAW)",
+"year": "2024",
+"url": "https://basicpage.github.io"
+```
 
+``` json {.paper}
+"title": "Towards automatic academic pages",
+"authors": "Templato Urnehm, U. N. Owen",
+"awards": "Automatic Award",
+"venue": "Principles of Awesomeness (PAW)",
+"year": "2023",
+"url": "https://basicpage.github.io",
+"files": [
+  { "text": "Paper", "type": "pdf", "src": "foo.pdf" },
+  { "text": "Bibtex", "type": "bib", "src": "foo.bib" },
+  { "text": "Formalisation", "type": "code", "src": "foo.v" }
+]
+```
 
+## Journal papers
+
+``` yaml {.paper}
+title: Yet another yaml parser 3
+authors: Templato Urnehm
+awards:
+  - Yet another "Yet another" award
+  - Never-ending Work Award
+venue: Proceedings of Nihilism
+year: 2029
+url: https://basicpage.github.io
+files:
+  - text: Paper
+    type: pdf
+    scr: foo.pdf
+  - text: Bibtex
+    type: bib
+    src: foo.bib
+```
+
+``` yaml {.papers}
+papers:
+  - title: Yet another yaml parser 2
+    authors: Templato Urnehm
+    venue: Proceedings of Nihilism
+    year: 2027
+    files:
+      - text: Paper
+        type: pdf
+        scr: foo.pdf
+      - text: Bibtex
+        type: bib
+        src: foo.bib
+  - title: Yet another yaml parser
+    authors: Templato Urnehm
+    awards: Yet another "Yet another" award
+    venue: Proceedings of Nihilism
+    year: 2025
+    files:
+      - text: Paper
+        type: pdf
+        scr: foo.pdf
+      - text: Bibtex
+        type: bib
+        src: foo.bib
+      - text: Some link
+        type: link
+        src: fake.link.xyz
+      - text: Repo
+        type: git
+        src: github.com
+```
+
+``` json {.paper}
+"title": "How to tame your wagon",
+"authors": "Templato Urnehm",
+"venue": "Journal of Automatic Rejection (JAR)",
+"year": "2022"
+```
+
+## Drafts
+
+``` json {.paper}
+"title": "TBD",
+"authors": "TBD",
+"awards": [
+  "Best Draft Award",
+  "Test-of-time Award for works which just never leave the draft stage"
+],
+"files": [
+  { "text": "🐱 video", "type": "video", "src": "foo.mov" },
+  { "text": "Poem", "type": "txt", "src": "foo.txt" },
+  { "text": "My picture", "type": "img", "src": "img/profile.png" },
+  { "text": "💣", "type": "zip", "src": "foo.zip" },
+  { "text": "Slides", "type": "slides", "src": "foo.key" },
+  { "text": "Some random file", "src": "foo.rand" }
+]
+```
+
+## Talks
+
+``` json {.papers}
+{
+  "title": "Talk 1",
+  "authors": "Templato Urnehm",
+  "venue": "My room"
+},
+{
+  "title": "Secret talk",
+  "authors": "Templato Urnehm",
+  "year": "1990"
+},
+{
+  "title": "Talk 3",
+  "authors": "Templato Urnehm",
+  "venue": "Don't remember…",
+  "year": "???"
+}
+```
 
 # Education
 
