@@ -70,7 +70,7 @@ Committee: Andrew Tolmach, Cătălin Hrițcu, Yao Li, Mark Jones
 "title": "Compiler Correctness and Spectre Mitigations",
 "authors": "Julay Leatherman-Brooks, advised by Andrew Tolmach",
 "venue": "Portland State University",
-"year": "2026"
+"year": "2026",
 "files": [
   { "text": "Thesis", "type": "pdf", "src": "papers/thesis_draft.pdf" },
   { "text": "Slides", "type": "pdf", "src": "files/thesis_slides.pdf" }
