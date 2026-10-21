@@ -10,7 +10,7 @@ clickable-email: false
 picture: img/med2.jpeg
 picture-round: true
 side-by-side: true
-disable-dark-mode: false
+disable-dark-mode: true
 pronouns: they/she
 og-picture: https://julayleathermanbrooks.github.io/website/img/med2.jpeg
 orcid: 0009-0005-5957-6981
