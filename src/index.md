@@ -49,14 +49,6 @@ Previously, I was a research intern at [MPI-SP](https://www.mpi-sp.org/), in the
   { "text": "Rocq Development", "type": "code", "src": "https://github.com/secure-compilation/Triosecuris" }
 ]
 ```
-```
-```
-
-# Education
-
-- 01/2024 - 06/2027: Computer Science, MS, Portland State University
-- 08/2015 - 05/2016: Linguistics, no degree awarded, University of California, Berkeley
-- 09/1995 - 05/2002: Music, BA, Sarah Lawrence College
 
 ## Master's Thesis (Upcoming)
 
@@ -73,6 +65,13 @@ This is a near-final draft: it still remains to meet university formatting requi
 ]
 
 ```
+
+# Education
+
+- 01/2024 - 06/2027: Computer Science, MS, Portland State University
+- 08/2015 - 05/2016: Linguistics, no degree awarded, University of California, Berkeley
+- 09/1995 - 05/2002: Music, BA, Sarah Lawrence College
+
 # Teaching
 
 - 04/2025 - 06/2025: TA, Malware Reverse Engineering 
